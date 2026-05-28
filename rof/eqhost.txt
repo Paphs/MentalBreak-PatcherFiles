@@ -1,0 +1,2 @@
+[LoginServer]
+Host=mentalbreak.myftp.org:5999
