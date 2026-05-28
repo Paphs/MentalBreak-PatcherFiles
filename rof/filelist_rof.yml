@@ -12,6 +12,11 @@ downloads:
   date: "2026-04-25"
   zip: ""
   size: 1823744
+- name: eqgame.exe
+  md5: C8200ADE143D669B4061FA1BB1A4F415
+  date: "2026-04-25"
+  zip: ""
+  size: 8774656
 - name: eqhost.txt
   md5: DA4BC38D15A11E5CE31D19309FAE0EAC
   date: "2026-04-25"
