@@ -1,2 +1,2 @@
 [LoginServer]
-Host=mentalbreak.myftp.org:5999
+Host=100.72.194.4:5999

@@ -41,13 +41,13 @@ def main():
     manifest_path = os.path.join(PATCH_DIR, "filelist_rof.yml")
     with open(manifest_path, "w", encoding="utf-8") as f:
         f.write(f"downloadprefix: {DOWNLOAD_PREFIX}\n")
-        f.write(f"version: 1.0.6.7\n")
+        f.write(f"version: 1.0.7.0\n")
         f.write(f"deletes:\n")
         f.write(f"downloads:\n")
         for rel_path, md5, size in entries:
             f.write(f"- name: {rel_path}\n")
             f.write(f"  md5: {md5}\n")
-            f.write(f"  date: \"2026-04-25\"\n")
+            f.write(f"  date: \"2026-07-06\"\n")
             f.write(f"  zip: \"\"\n")
             f.write(f"  size: {size}\n")
 
